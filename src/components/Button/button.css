@@ -1,0 +1,7 @@
+.reset-button {
+    width: 100%;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    background-color: darkmagenta;
+    color: white;
+}

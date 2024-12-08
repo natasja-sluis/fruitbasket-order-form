@@ -1,0 +1,17 @@
+.details-form {
+    flex-basis: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.details-input {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.details-input label {
+    flex: 1 0 200px;
+}
